@@ -1,0 +1,27 @@
+.cc-mask {
+	display: inline-block;
+	height: 40px;
+	font-size: 18px;
+	background: none;
+	color: #000;
+	/* text-shadow: 0 0 8px #f5f5f5; */
+	border: 1px solid #fff;
+	padding: 2px;
+	outline: none;
+	width: 250px;
+	transition: text-shadow .2s, border .2s;
+}
+
+/* button style class for all the buttons in the application */
+
+.button {
+	width: 9.688rem;
+	background-color: #a5e2ea;
+	border-color: #a5e2ea;
+	text-shadow: none;
+	border-style: none;
+	border-radius: 4px;
+	padding: 1rem 1.5rem;
+	color: white;
+	font-size: 1.125rem;
+}
